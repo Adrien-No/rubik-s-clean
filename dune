@@ -1,2 +1,2 @@
-(executable
-    (name main))
+(executables
+    (names main tests))

@@ -8,7 +8,9 @@ Ici nous allons nous contenter d'en représenter un, que l'utilisateur pourra ma
 
 * Seul le nombre de coins est constant, 8, il y a `12 * sides-2` arêtes, `(sides-2)²` faces et `(sides-2)³` centres.
 
-# Représentation et rotation du cube 
+# Représentation et rotation du cube
+
+
 * __Problème actuel :__
 Je ne parvient pas à effectuer des rotations convenablement, c'est à dire calculer la position du cubies après rotation.
 Cela pose aussi un problème lorsque l'on veut trouver les "couples" d'un cubies : pour un cubies donné, les 4 positions qu'il peut avoir par une seule rotation de face.

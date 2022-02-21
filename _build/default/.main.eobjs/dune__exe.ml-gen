@@ -1,0 +1,6 @@
+(** @canonical Dune__exe.Main *)
+module Main = Dune__exe__Main
+
+
+(** @canonical Dune__exe.Tests *)
+module Tests = Dune__exe__Tests
