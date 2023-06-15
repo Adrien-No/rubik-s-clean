@@ -1,5 +1,5 @@
 # SYNOPSIS
-Le rubik's cube étant un objet formidablement géométrique, de nombreuses propriétés intéressantes peuvent être étudier.
+Le rubik's cube étant un objet formidablement géométrique, de nombreuses propriétés intéressantes peuvent être étudiées.
 
 Ici nous allons nous contenter d'en représenter un, que l'utilisateur pourra manipuler, puis d'essayer divers moyens pour le résoudre à coup sûr pour, par exemple, donner des conseils au joueur. 
 
